@@ -1,0 +1,2 @@
+# Katas
+Ejercicios del onBoarding
